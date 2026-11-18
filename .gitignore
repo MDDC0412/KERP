@@ -1,0 +1,14 @@
+backend/kerp-server/target/
+frontend/node_modules/
+frontend/dist/
+.idea/
+.vscode/
+*.log
+*.tmp
+.DS_Store
+
+# 本地数据与配置
+data/
+.env
+.env.local
+backend/kerp-server/src/main/resources/application-local.yml
